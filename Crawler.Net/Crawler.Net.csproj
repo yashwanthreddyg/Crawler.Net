@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Fetcher" />
+      <Folder Include="Frontier" />
+      <Folder Include="Parser" />
+      <Folder Include="RobotsTxt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="6.0.9" />
+      <PackageReference Include="Nager.PublicSuffix" Version="2.4.0" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler.Net", "Crawler.Net\Crawler.Net.csproj", "{9D42008F-37B5-402C-A3E8-0E788618FDA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler.Net.Console", "Crawler.Net.Console\Crawler.Net.Console.csproj", "{1FBBC226-BA62-42AD-8655-17753F5A4061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D42008F-37B5-402C-A3E8-0E788618FDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D42008F-37B5-402C-A3E8-0E788618FDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D42008F-37B5-402C-A3E8-0E788618FDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D42008F-37B5-402C-A3E8-0E788618FDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBBC226-BA62-42AD-8655-17753F5A4061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBBC226-BA62-42AD-8655-17753F5A4061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBBC226-BA62-42AD-8655-17753F5A4061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBBC226-BA62-42AD-8655-17753F5A4061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
